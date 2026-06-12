@@ -2,10 +2,10 @@
 
 Screens rank, and analyzes resumes against a job description using Natural Language Processing (NLP), TF-IDF, Semantic embeddings, and cosine similarity.
 
-![RecruitIQ Homepage](assets/1.png)
+![RecruitIQ Homepage](assets/1.jpg)
 <p align="center">
-  <img src="assets/1.png" width="45%">
-  <img src="assets/2.png" width="45%">
+  <img src="assets/1.jpg" width="45%">
+  <img src="assets/2.jpg" width="45%">
 </p>
 
 ## Overview
