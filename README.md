@@ -7,9 +7,11 @@ Input:
   <img src="assets/2.jpg" width="45%">
 </p>
 
-Output single analysis or comparision of multiple resumes.
+Output single resume analysis or comparision of multiple resumes.
 <p align="center">
   <img src="assets/result.jpg" width="45%">
+</p>
+<p align="center">
   <img src="assets/compare.jpg" width="45%">
 </p>
 ## Overview
