@@ -1,13 +1,17 @@
 # RecruitIQ, an AI powered resume screening engine
 
 Screens rank, and analyzes resumes against a job description using Natural Language Processing (NLP), TF-IDF, Semantic embeddings, and cosine similarity.
-
-![RecruitIQ Homepage](assets/1.jpg)
+Input:
 <p align="center">
   <img src="assets/1.jpg" width="45%">
   <img src="assets/2.jpg" width="45%">
 </p>
 
+Output single analysis or comparision of multiple resumes.
+<p align="center">
+  <img src="assets/result.jpg" width="45%">
+  <img src="assets/compare.jpg" width="45%">
+</p>
 ## Overview
 
 RecruitIQ is an intelligent resume screening platform designed to help recruiters quickly identify the most relevant candidates for a job opening.
